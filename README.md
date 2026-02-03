@@ -131,9 +131,9 @@ A web-based TOPSIS application developed using **Flask**.
 ---
 
 
-## Repository Structure
+## 📁 Repository Structure
 
-
+```text
 TOPSIS-SNEHA-102303723
 │
 ├── Part1
@@ -164,6 +164,8 @@ TOPSIS-SNEHA-102303723
 ├── result.csv
 ├── README.md
 └── .gitignore
+```
+
 
 
 
