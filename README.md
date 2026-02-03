@@ -135,17 +135,36 @@ A web-based TOPSIS application developed using **Flask**.
 
 
 TOPSIS-SNEHA-102303723
+│
 ├── Part1
+│   └── topsis.py
+│
 ├── Part2
+│   ├── topsis
+│   │   ├── __init__.py
+│   │   └── topsis.py
+│   ├── setup.py
+│   └── README.md
+│
 ├── Part3
+│   ├── app.py
+│   ├── topsis_logic.py
+│   ├── requirements.txt
+│   ├── templates
+│   │   └── index.html
+│   ├── uploads
+│   └── outputs
+│
 ├── Screenshots
-│ ├── Part1
-│ ├── Part2
-│ └── Part3
+│   ├── Part1
+│   ├── Part2
+│   └── Part3
+│
 ├── data.csv
 ├── result.csv
 ├── README.md
 └── .gitignore
+
 
 
 ---
